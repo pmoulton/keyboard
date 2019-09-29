@@ -1,6 +1,6 @@
 [Karabiner](https://pqrs.org/osx/karabiner/index.html) is a Mac OS utility for customizing your keyboard.
 
-I use the following modifications on a day to day basis and find they improve my efficiency.
+I use the following modifications on a day to day basis and find they improve my efficiency. You can find them in karabiner/complex_modifications.
 
 1. SpaceFN and VIM arrow keys
     * Holding space will trigger the FN layer and hjkl will act as arrow keys
