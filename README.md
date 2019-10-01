@@ -8,5 +8,5 @@ I use the following modifications on a day to day basis and find they improve my
     * Caps lock will send control when pressed with other keys
     * It will send escape if pressed alone
 3. Shift key taps to parenthesis
-    * Tapping (not holding) the left shift will send a left parenthesis
+    * Tapping the left shift will send a left parenthesis, holding will send a shift key
     * Same as above for right shift
