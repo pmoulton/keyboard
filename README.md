@@ -1,3 +1,9 @@
+### Ergodox
+I recently purchased this keyboard for work and will be sharing my layouts in the ergodox/ subdirectory.
+It's been difficult to adapt to at first, but I can already see the benefits of the layout and the customization.
+
+### Mac OS
+
 [Karabiner](https://pqrs.org/osx/karabiner/index.html) is a Mac OS utility for customizing your keyboard.
 
 I use the following modifications on a day to day basis and find they improve my efficiency. You can find them in karabiner/complex_modifications.
